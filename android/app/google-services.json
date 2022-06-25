@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1030432137825",
+    "firebase_url": "https://ctnrweb.firebaseio.com",
+    "project_id": "ctnrweb",
+    "storage_bucket": "ctnrweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030432137825:android:727ada316d6221cd8bc020",
+        "android_client_info": {
+          "package_name": "com.example.ctnrweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030432137825-iu9rqc7qpths4k2hbiqgkf6ocnpc894f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiBv92ZXm40_dRN1xqyxG0FRDfCmQJ1zI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030432137825-iu9rqc7qpths4k2hbiqgkf6ocnpc894f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

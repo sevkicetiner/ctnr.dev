@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 14,
+    "dart.flutterAdbConnectOnChromeOs": true,
+    "dart.flutterSdkPaths": [
+        "~/development/flutter/bin"
+    ]
+}
